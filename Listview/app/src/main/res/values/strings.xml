@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Listview Project</string>
+    <string name="item">item</string>
+    <string name="price">Price:</string>
+    <string name="_0">0</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+</resources>
